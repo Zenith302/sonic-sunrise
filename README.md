@@ -2,7 +2,7 @@
 Sonic Sunrise is a 3D fangame for PC made by I and my friends out of our love and passion for Sonic The Hedgehog.
 No hedgehogs were harmed in the making of this game.
 
-Loosely inspired by Sonic Dawn, a cancelled project for SEGA Saturn by SGNRyan.
+Loosely inspired by early 2000's rave culture, Sonic Robo Blast 2 by Sonic Team Jr, Sonic Adventure by Sonic Team, and Sonic Dawn, a cancelled project for SEGA Saturn by SGNRyan.
 
 No copyright infringement is intended, and we obviously do not own Sonic The Hedgehog himself, or any part of his franchise.
 None of us are affiliated with SEGA or Sonic Team.
