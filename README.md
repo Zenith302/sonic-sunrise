@@ -1,4 +1,7 @@
 # sonic-sunrise
 Sonic Sunrise is a 3D fangame made by I and my friends out of our love and passion for Sonic The Hedgehog.
+No hedgehogs were harmed in the making of this game.
 
-No copyright infringement is intended, and we obviously do not own Sonic The Hedgehog himself, or any part of his franchise. We have no affiliation with SEGA. This game should never be sold, and instead should be distributed for free.
+No copyright infringement is intended, and we obviously do not own Sonic The Hedgehog himself, or any part of his franchise.
+None of us are affiliated with SEGA or Sonic Team.
+Sonic Sunrise is a free game and should NOT be sold. If a copy of this game was sold to you, you've been scammed, and should seek a refund.
