@@ -35,10 +35,10 @@ ZONE NAMES, DETAILS, AND ORDERS ARE SUBJECT TO CHANGE FOLLOWING ZENITH'S BLESSIN
 **???**
 - info
 
-**final flight**
+**Panic Station**
 - info
 
-**panic station**
+**Final Flight**
 - info
 
 **Star Scrambler**
