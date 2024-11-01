@@ -29,10 +29,10 @@ ZONE NAMES, DETAILS, AND ORDERS ARE SUBJECT TO CHANGE FOLLOWING ZENITH'S BLESSIN
 **Cherry Peaks**
 - info
 
-**???**
+****
 - info
 
-**???**
+**somethin chemically**
 - info
 
 **Panic Station**
