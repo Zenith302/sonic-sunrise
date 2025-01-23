@@ -1,6 +1,8 @@
 # SUNRISE ZONE LIST
 
 ZONE NAMES, DETAILS, AND ORDERS ARE SUBJECT TO CHANGE FOLLOWING ZENITH'S BLESSING
+sorry for cutting the shmup stages, I'd rather adapt their ideas for an original game
+30 stages total.. fuck, lol
 
 **Flourishing Falls**
 - Lush tropical forest filled with waterfalls, rock formations, and winding landscape.
@@ -17,20 +19,14 @@ ZONE NAMES, DETAILS, AND ORDERS ARE SUBJECT TO CHANGE FOLLOWING ZENITH'S BLESSIN
 **Rave City**
 - stardust speedway on lsd
 
-**Slipstream**
-- shmup stage woo
-
 **Starbound Observatory**
 - Something like Sky Sanctuary but also obviously a laboratory. Eggman triggers a self destruct at the end of the stage's boss
 
 **Cherry Peaks**
 - info
 
-**somethin chemically**
+**somethin chemically idk**
 - info
-
-**Final Flight**
-- harder shmup stage woo
 
 **Panic Station**
 - final zone for <7 chaos emeralds bad ending
