@@ -1,7 +1,9 @@
 # SUNRISE ZONE LIST
 
 ZONE NAMES, DETAILS, AND ORDERS ARE SUBJECT TO CHANGE FOLLOWING ZENITH'S BLESSING
+
 sorry for cutting the shmup stages, I'd rather adapt their ideas for an original game
+
 30 stages total.. fuck, lol
 
 **Flourishing Falls**
