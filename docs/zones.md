@@ -5,23 +5,20 @@ ZONE NAMES, DETAILS, AND ORDERS ARE SUBJECT TO CHANGE FOLLOWING ZENITH'S BLESSIN
 **Flourishing Falls**
 - Lush tropical forest filled with waterfalls, rock formations, and winding landscape.
 
-**Honeybee Ruins**
-- info
-
 **Crystaline Caverns**
-- info
+- like mystic cave and quartz quadrant but it's full of relics and ruins from ancient bee civilization
 
 **Aquopolis**
-- info
+- hydro city but also
 
 **Railyard Rumble**
-- info
+- full of warehouses and bullet trains, front for spreading badniks faster
 
-**Raving Cityscape**
-- info
+**Rave City**
+- stardust speedway on lsd
 
 **Slipstream**
-- info
+- shmup stage woo
 
 **Starbound Observatory**
 - Something like Sky Sanctuary but also obviously a laboratory. Eggman triggers a self destruct at the end of the stage's boss
@@ -29,17 +26,14 @@ ZONE NAMES, DETAILS, AND ORDERS ARE SUBJECT TO CHANGE FOLLOWING ZENITH'S BLESSIN
 **Cherry Peaks**
 - info
 
-****
-- info
-
 **somethin chemically**
 - info
 
-**Panic Station**
-- info
-
 **Final Flight**
-- info
+- harder shmup stage woo
+
+**Panic Station**
+- final zone for <7 chaos emeralds bad ending
 
 **Star Scrambler**
-- info
+- true final act for 7 chaos emeralds good ending
