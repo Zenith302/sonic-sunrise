@@ -19,7 +19,11 @@ sorry for cutting the shmup stages, I'd rather adapt their ideas for an original
 - full of warehouses and bullet trains, front for spreading badniks faster
 
 **Rave City**
+<<<<<<< HEAD
 - stardust speedway on lsd
+=======
+- note: named such as a reference to ridge racer
+>>>>>>> eabc851 (uhhhhh)
 
 **Starbound Observatory**
 - Something like Sky Sanctuary but also obviously a laboratory. Eggman triggers a self destruct at the end of the stage's boss
@@ -31,7 +35,11 @@ sorry for cutting the shmup stages, I'd rather adapt their ideas for an original
 - info
 
 **Panic Station**
+<<<<<<< HEAD
 - final zone for <7 chaos emeralds bad ending
+=======
+- info
+>>>>>>> eabc851 (uhhhhh)
 
 **Star Scrambler**
 - true final act for 7 chaos emeralds good ending
